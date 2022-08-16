@@ -1,9 +1,7 @@
-import org.openqa.selenium.By;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
@@ -45,7 +43,13 @@ public class FirstPage extends BasePage {
     }
 
     public FirstPage siralamaOlcutuSec() throws InterruptedException {
-        Thread.sleep(2000);
+        FluentWait waitFluent = new FluentWait(driver);
+        waitFluent.withTimeout(5000, TimeUnit.MILLISECONDS);
+        waitFluent.pollingEvery(1000,TimeUnit.MILLISECONDS);
+        waitFluent.ignoring(NoSuchElementException.class);
+        waitFluent.until(ExpectedConditions.elementToBeClickable(siralama));
+
+        //Thread.sleep(2000);
         //wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("SortingBox")));
         //wait.until(ExpectedConditions.elementToBeClickable(By.id("SortingBox")));
 

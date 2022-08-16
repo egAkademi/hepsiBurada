@@ -707,3 +707,146 @@ aşağıdaki ürünleri incelemeye başlayabilirsin. kontrolü yapılır.
 2022-03-20 16:54:09,673 INFO  [BasePage] silme  işlemi sonrası uyarı mesajı: Sepetin şu an boş
 Sepetini Hepsiburada’nın fırsatlarla dolu dünyasından doldurmak için
 aşağıdaki ürünleri incelemeye başlayabilirsin. kontrolü yapılır. 
+2022-03-20 16:56:52,215 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-20 16:56:52,223 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-20 16:56:52,328 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-20 16:56:52,559 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-20 16:56:52,575 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-20 16:56:52,810 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-20 16:56:52,898 INFO  [BasePage] ara butonu tıklanır 
+2022-03-20 16:56:57,636 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-20 16:56:57,640 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-20 16:56:59,645 INFO  [BasePage] ara butonu tıklanır 
+2022-03-20 16:57:00,145 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-20 16:57:02,442 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-20 16:57:02,445 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-20 16:57:04,095 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-20 16:57:04,351 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-20 16:57:04,426 INFO  [BasePage] ChromeDriver: chrome on MAC (73c1ae582c9fd355f6b0d7ed9064ae43) 
+2022-03-20 16:57:05,245 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-20 16:57:07,730 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-20 16:57:07,733 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-20 16:57:07,776 INFO  [BasePage] FirefoxDriver: firefox on MAC (6b490be3-3555-4a50-9dcd-b242a36e1ef9) 
+2022-03-20 16:57:11,572 INFO  [BasePage] ana sekmeye geçilir 
+2022-03-20 16:57:14,346 INFO  [BasePage] sepete gidilir. 
+2022-03-20 16:57:15,480 INFO  [BasePage] sepetten ürün silinir. 
+2022-03-20 16:57:16,110 INFO  [BasePage] silme  işlemi sonrası uyarı mesajı: Sepetin şu an boş
+Sepetini Hepsiburada’nın fırsatlarla dolu dünyasından doldurmak için
+aşağıdaki ürünleri incelemeye başlayabilirsin. kontrolü yapılır. 
+2022-03-20 16:58:07,407 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-20 16:58:07,427 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-20 16:58:07,615 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-20 16:58:07,720 INFO  [BasePage] ara butonu tıklanır 
+2022-03-20 16:58:09,393 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-20 16:58:09,397 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-20 16:58:09,491 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-20 16:58:15,183 INFO  [BasePage] ara butonu tıklanır 
+2022-03-20 16:58:15,380 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-20 16:58:15,403 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-20 16:58:17,892 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-20 16:58:17,978 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-20 16:58:17,982 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-20 16:58:21,208 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-20 16:58:21,546 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-20 16:58:21,871 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-20 16:58:21,913 INFO  [BasePage] ChromeDriver: chrome on MAC (7b99f536a6396a8910f5a49fa173e400) 
+2022-03-20 16:58:23,468 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-20 16:58:23,471 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-20 16:58:23,482 INFO  [BasePage] FirefoxDriver: firefox on MAC (367cfb00-d391-4ac2-8c01-cf72cadee17e) 
+2022-03-20 16:58:29,052 INFO  [BasePage] ana sekmeye geçilir 
+2022-03-20 16:58:30,548 INFO  [BasePage] ana sekmeye geçilir 
+2022-03-20 16:58:31,739 INFO  [BasePage] sepete gidilir. 
+2022-03-20 16:58:32,926 INFO  [BasePage] sepetten ürün silinir. 
+2022-03-20 16:58:33,575 INFO  [BasePage] silme  işlemi sonrası uyarı mesajı: Sepetin şu an boş
+Sepetini Hepsiburada’nın fırsatlarla dolu dünyasından doldurmak için
+aşağıdaki ürünleri incelemeye başlayabilirsin. kontrolü yapılır. 
+2022-03-20 16:58:34,400 INFO  [BasePage] sepete gidilir. 
+2022-03-20 16:58:34,739 INFO  [BasePage] sepetten ürün silinir. 
+2022-03-20 16:58:35,069 INFO  [BasePage] silme  işlemi sonrası uyarı mesajı: Sepetin şu an boş
+Sepetini Hepsiburada’nın fırsatlarla dolu dünyasından doldurmak için
+aşağıdaki ürünleri incelemeye başlayabilirsin. kontrolü yapılır. 
+2022-03-23 18:14:48,965 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-23 18:14:48,986 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:14:49,211 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-23 18:14:53,985 INFO  [BasePage] ara butonu tıklanır 
+2022-03-23 18:14:56,418 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-23 18:14:56,422 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:14:59,371 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-23 18:15:02,430 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-23 18:15:02,435 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-23 18:15:02,458 INFO  [BasePage] ChromeDriver: chrome on MAC (bb2d0693d1ead61f4745aff4203490a8) 
+2022-03-23 18:22:38,239 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-23 18:22:38,269 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:22:38,493 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-23 18:22:43,183 INFO  [BasePage] ara butonu tıklanır 
+2022-03-23 18:22:45,661 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-23 18:22:45,680 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:22:46,936 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-23 18:24:01,492 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-23 18:24:01,524 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:24:01,718 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-23 18:24:01,933 INFO  [BasePage] ara butonu tıklanır 
+2022-03-23 18:24:07,667 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-23 18:24:07,674 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:24:09,690 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-23 18:24:12,762 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-23 18:24:12,768 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-23 18:25:01,346 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-23 18:25:01,357 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:25:01,516 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-23 18:25:01,655 INFO  [BasePage] ara butonu tıklanır 
+2022-03-23 18:25:10,596 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-23 18:25:10,870 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:25:12,163 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-23 18:25:15,564 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-23 18:25:15,579 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-23 18:25:15,844 INFO  [BasePage] ChromeDriver: chrome on MAC (522c7e29e9d471844a26df3558d264ee) 
+2022-03-23 18:25:23,029 INFO  [BasePage] ana sekmeye geçilir 
+2022-03-23 18:25:26,338 INFO  [BasePage] sepete gidilir. 
+2022-03-23 18:25:27,377 INFO  [BasePage] sepetten ürün silinir. 
+2022-03-23 18:25:27,942 INFO  [BasePage] silme  işlemi sonrası uyarı mesajı: Sepetin şu an boş
+Sepetini Hepsiburada’nın fırsatlarla dolu dünyasından doldurmak için
+aşağıdaki ürünleri incelemeye başlayabilirsin. kontrolü yapılır. 
+2022-03-23 18:27:42,397 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-23 18:27:42,424 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:27:42,594 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-23 18:27:42,753 INFO  [BasePage] ara butonu tıklanır 
+2022-03-23 18:28:14,221 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-23 18:28:14,252 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:28:14,397 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-23 18:28:14,541 INFO  [BasePage] ara butonu tıklanır 
+2022-03-23 18:28:24,750 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-23 18:28:24,754 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:28:26,151 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-23 18:28:29,197 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-23 18:28:29,203 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-23 18:29:03,276 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-03-23 18:29:03,302 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:29:03,560 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-03-23 18:29:03,874 INFO  [BasePage] ara butonu tıklanır 
+2022-03-23 18:29:09,567 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-03-23 18:29:09,572 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-03-23 18:29:10,458 INFO  [BasePage] ikinci ürün seçilir. 
+2022-03-23 18:29:13,622 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-03-23 18:29:13,651 INFO  [BasePage] Page title of new tab:Huawei Matebook D 16 AMD Ryzen 5 4600H 8GB 512GB SSD Windows Fiyatı 
+2022-03-23 18:29:13,670 INFO  [BasePage] ChromeDriver: chrome on MAC (0ecd1e4d15db082041baa582d193b4e9) 
+2022-03-23 18:29:17,462 INFO  [BasePage] ana sekmeye geçilir 
+2022-03-23 18:29:20,260 INFO  [BasePage] sepete gidilir. 
+2022-03-23 18:29:21,341 INFO  [BasePage] sepetten ürün silinir. 
+2022-03-23 18:29:21,968 INFO  [BasePage] silme  işlemi sonrası uyarı mesajı: Sepetin şu an boş
+Sepetini Hepsiburada’nın fırsatlarla dolu dünyasından doldurmak için
+aşağıdaki ürünleri incelemeye başlayabilirsin. kontrolü yapılır. 
+2022-08-01 11:39:53,638 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-08-01 11:39:53,652 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-08-01 11:39:53,879 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-08-01 11:39:54,049 INFO  [BasePage] ara butonu tıklanır 
+2022-08-01 20:14:56,661 INFO  [BasePage] hepsi burada web sitesi açılır 
+2022-08-01 20:14:56,694 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-08-01 20:14:56,956 INFO  [BasePage] Bilgisayararaması yapılır 
+2022-08-01 20:15:00,267 INFO  [BasePage] ara butonu tıklanır 
+2022-08-01 20:15:03,956 INFO  [BasePage] sıralama ölçütü olarak Çok değerlendirilenler seçilir 
+2022-08-01 20:15:03,961 INFO  [BasePage] sayfa kontrolü yapılır 
+2022-08-01 20:15:04,395 INFO  [BasePage] ikinci ürün seçilir. 
+2022-08-01 20:15:07,362 INFO  [BasePage] yeni sekmede ürün sepete eklenir. 
+2022-08-01 20:15:07,414 INFO  [BasePage] Page title of new tab:Asus TUF Gaming FX506LHB-HN323 Intel Core i5 10300H 8GB Fiyatı 
+2022-08-01 20:15:07,454 INFO  [BasePage] ChromeDriver: chrome on MAC (473959633ac0495302e10c6935f19ecd) 
